@@ -1,3 +1,7 @@
+#RICARDO DANIEL ARENAS CARRANZA
+#Matricula M01009381
+#BASES DE PROGRAMACIÓN (221203033/CMX)
+
 numero = int(input("Numero 1:"))
 numero2 = int(input("Numero 2:"))
 

@@ -1,3 +1,7 @@
+#RICARDO DANIEL ARENAS CARRANZA
+#Matricula M01009381
+#BASES DE PROGRAMACIÓN (221203033/CMX)
+
 #z = y = x  = 1
 #print (x,y,z, sep="*")
 #print (1//2*3)

@@ -1,3 +1,7 @@
+#RICARDO DANIEL ARENAS CARRANZA
+#Matricula M01009381
+#BASES DE PROGRAMACIÓN (221203033/CMX)
+
 import sys; print(sys.version)
 edad = 31
 nombre = "Montse"

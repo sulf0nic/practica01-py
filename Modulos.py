@@ -1,5 +1,9 @@
 #import math
 import imp
+#RICARDO DANIEL ARENAS CARRANZA
+#Matricula M01009381
+#BASES DE PROGRAMACIÓN (221203033/CMX)
+
 from math import pi, pow, atan
 from random import randrange;
 #from Funciones import validarINE, validarINE1;

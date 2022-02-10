@@ -1,3 +1,7 @@
+#RICARDO DANIEL ARENAS CARRANZA
+#Matricula M01009381
+#BASES DE PROGRAMACIÓN (221203033/CMX)
+
 nombre = int(input("Escribe tu nombre: "))
 print (nombre)
 
